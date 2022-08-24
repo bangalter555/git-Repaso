@@ -2,6 +2,6 @@ const d = document;
 const body = document.body;
 
 const $title = document.createElement("h1");
-$title.textContent = "Hello World";
+$title.textContent = "Second Branch";
 
 body.appendChild($title);
